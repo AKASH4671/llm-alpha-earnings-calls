@@ -177,7 +177,9 @@ notebooks/
   04_portfolio_backtest.ipynb
   05_tfidf_benchmark.ipynb
 
-figures/
+results/
+  figures/
+  tables/
 
 paper/
   LLM_Alpha_Earnings_Call_Research.pdf
