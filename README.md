@@ -1,3 +1,5 @@
+![Research Pipeline](results/figures/pipeline_diagram.png)
+
 # LLM-Driven Alpha Extraction from Earnings Call Transcripts
 
 This repository contains the code and research material for a study examining whether modern **Large Language Model (LLM)** embeddings can extract economically meaningful signals from corporate earnings call transcripts and translate them into systematic equity investment strategies.
