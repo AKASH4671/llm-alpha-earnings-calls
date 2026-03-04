@@ -204,3 +204,17 @@ paper/
 This project is intended for **academic research and educational purposes only**.
 
 The results presented in this repository **do not constitute investment advice** and should not be interpreted as a production-ready trading strategy.
+
+## Reproducing the Results
+
+1. Clone the repository
+2. Install required packages
+3. Run notebooks in the following order:
+
+01_data_cleaning.ipynb  
+02_embedding_generation.ipynb  
+03_return_prediction_model.ipynb  
+04_portfolio_backtest.ipynb  
+05_tfidf_benchmark.ipynb
+
+Note: Raw transcript data is not included due to size constraints.
