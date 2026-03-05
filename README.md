@@ -1,6 +1,13 @@
-![Research Pipeline](results/figures/pipeline_diagram.png)
-
 # LLM-Driven Alpha Extraction from Earnings Call Transcripts
+
+![Python](https://img.shields.io/badge/Python-3.14-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Enabled-green)
+![Finance Research](https://img.shields.io/badge/Finance-Quantitative-orange)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+<p align="center">
+  <img src="results/figures/pipeline_diagram.png" width="250" height="550">
+</p>
 
 This repository contains the code and research material for a study examining whether modern **Large Language Model (LLM)** embeddings can extract economically meaningful signals from corporate earnings call transcripts and translate them into systematic equity investment strategies.
 
