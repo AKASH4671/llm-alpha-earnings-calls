@@ -14,6 +14,8 @@ This repository contains the code and research material for a study examining wh
 The central objective of the project is to evaluate whether **unstructured financial language contains information that is not fully incorporated into market prices**, and whether these signals can generate **risk-adjusted alpha**.
 
 ---
+# Read Full Paper :
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6510327
 
 # Research Motivation
 
